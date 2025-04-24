@@ -1,5 +1,0 @@
-transformers
-accelerate
-python-dotenv
-pandas
-torch  # Optional if already installed
