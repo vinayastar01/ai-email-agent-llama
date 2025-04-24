@@ -1,3 +1,13 @@
+# 🧠 AI Email Agent (TinyLlama Edition)
+
+This is a Python-based email automation tool powered by the [TinyLlama-1.1B-Chat](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) model. It generates and sends emails based on a prompt or a predefined text file, with optional attachments. Built using Hugging Face Transformers and Python's built-in `smtplib`.
+
+---
+
+## 📁 Folder Structure
+
+
+
 ```
 ai-email-agent-llama/
 │
